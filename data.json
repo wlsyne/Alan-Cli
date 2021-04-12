@@ -4,6 +4,12 @@
         "name": "react-signle-page",
         "description": "react 单页模版",
         "url": "github:wlsyne/react-singlePage-tpl"
+    },
+    {
+        "id": 2,
+        "name": "rollup-template",
+        "description": "rollup 模板",
+        "url": "github:wlsyne/rollup-template"
     }
     
 ]
