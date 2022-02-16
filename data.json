@@ -10,6 +10,11 @@
         "name": "rollup-template",
         "description": "rollup 模板",
         "url": "github:wlsyne/rollup-template"
+    },
+    {
+        "id": 3,
+        "name": "Koa-template",
+        "description": "Koa 模板",
+        "url": "github:wlsyne/Koa-template"
     }
-    
 ]
